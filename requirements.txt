@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+# required by pandas.read_excel / DataFrame.to_excel for .xlsx files
+openpyxl
